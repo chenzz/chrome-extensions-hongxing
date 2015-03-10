@@ -1,0 +1,1 @@
+(function(){var n,i;n=["angular","core/module"],i=function(n){var i;return i=function($translate){return function(n){return"-_mtime"===n?$translate.instant("options.domain_list.sort_by_time"):"name"===n?$translate.instant("options.domain_list.sort_by_char"):void 0}},n.module("core").filter("rendSorter",i)},define(n,i)}).call(this);
